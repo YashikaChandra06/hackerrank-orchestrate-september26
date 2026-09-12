@@ -1,0 +1,12 @@
+# Challenge log file (AGENTS.md rule: Never commit log.txt)
+log.txt
+
+# Python cache & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+venv/
+env/
+.venv/
